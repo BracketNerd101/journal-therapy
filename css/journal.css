@@ -1,0 +1,95 @@
+body {
+
+min-height: 2500px;
+
+}
+
+
+/*--- CSS Type Styles HEre -------------*/
+
+/* font-family: 'PT Sans', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif; */
+
+/*--- CSS Type Styles HEre -------------*/
+
+
+.mind {
+
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 100%;
+    z-index: -3;
+    background-size: cover;
+    background-image: url(../img/cloud.jpg);
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 100%;
+    height: 45rem;
+    margin-top: 4rem;
+    margin-bottom: 10rem;
+    color: #ffffff;
+
+}
+
+.body {
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 100%;
+  z-index: -3;
+  background-size: cover;
+  background-image: url(../img/body-flower.jpg);
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 100%;
+  height: 45rem;
+  margin-bottom: auto;
+  color: #ffffff;
+
+}
+
+.soul {
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 100%;
+  z-index: -3;
+  background-size: cover;
+  background-image: url(../img/soul.jpg);
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 100%;
+  height: 45rem;
+  margin-bottom: 6rem;
+  color: #ffffff;
+
+}
+
+.light-hr-style {
+
+border-top: 1px solid #ffffff;
+
+}
+
+.card-trnsp-style {
+     background-color: rgba(250, 250, 250, 0.8);
+
+}
+
+.card-spacing {
+    margin-top: 6rem;
+    margin-bottom: 10rem;
+}
+
+.card-title-style {
+    font-family: 'Open Sans Condensed', sans-serif;
+
+
+}
+.card-body-text {
+     font-family: 'PT Sans', sans-serif;
+
+}
+
+.arrow-style {
+   margin-top: 5rem;
+
+}
