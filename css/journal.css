@@ -22,6 +22,12 @@ font-family: 'Open Sans Condensed', sans-serif; */
    cursor: pointer;
  }
 
+ .nav-link-styles{
+     font-size: 2rem;
+
+
+ }
+
  .navbar-toggler:hover {
    cursor: pointer;
 
@@ -119,6 +125,35 @@ font-family: 'Open Sans Condensed', sans-serif; */
 .arrow-style {
    margin-top: 9rem;
 
+}
+
+.yin-yang-style {
+
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 100%;
+  z-index: -3;
+  background-size: cover;
+  background-image: url(../img/yin-pebble.jpg);
+  display: inline-block;
+  vertical-align: middle;
+  max-width: 100%;
+  height: 55rem;
+  margin-top: 4rem;
+  margin-bottom: 10rem;
+  color: #ffffff;
+
+
+}
+
+.balance-banner {
+
+  margin-top: 15rem;
+}
+
+.hr-balance {
+
+  border-top: 1px solid #ffffff;
 }
 
 /* ------------------------------------------  footer section goes below -----------------------*/
