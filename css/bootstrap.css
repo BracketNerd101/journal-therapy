@@ -3318,7 +3318,7 @@ tbody.collapse.show {
   line-height: 1;
   /*background: transparent;
   border: 1px solid transparent;*/
-  border-radius: 0.25rem;
+  /*border-radius: 0.25rem;*/
 }
 
 .navbar-toggler:focus, .navbar-toggler:hover {
